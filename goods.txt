@@ -1,6 +1,6 @@
 coffee, grounded
-barista milk
-eggs, 1 dozen
 onions
 garlic
-rice
+flour
+sugar
+Coffee

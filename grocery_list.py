@@ -32,8 +32,7 @@ window = sg.Window('My Grocery List App',
                              [exit_button]], #1 row enclosed in a square bracket []
                    font=('Arial', 14))
 
-                   
-
+          
 while True:
     event, values = window.read(timeout=10)
     window["clock"].update(value=time.strftime('%b %d %Y, %H:%M:%S'))
